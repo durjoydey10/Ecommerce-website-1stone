@@ -1,0 +1,34 @@
+.site-name{
+    text-align: center;
+
+}
+
+.search{
+    position: relative;
+    width:25px;
+    height:25px;
+
+}
+
+.user{
+    position: relative;
+    width:25px;
+    height:25px;
+    top: 5px;
+    left: 90%;
+    
+    
+}
+
+.cart{
+    position: relative;
+    width:25px;
+    height:25px; 
+    top: 5px;
+    left: 91%;
+
+}
+.items{
+    text-align: center;
+}
+
