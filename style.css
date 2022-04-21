@@ -31,4 +31,7 @@
 .items{
     text-align: center;
 }
-
+.texts{
+    text-align: left;
+    font-family: 'Nunito Sans', sans-serif;
+}
